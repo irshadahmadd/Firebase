@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940072430739",
+    "project_id": "fir-one-a2876",
+    "storage_bucket": "fir-one-a2876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940072430739:android:96e54bbfeb473d04be3166",
+        "android_client_info": {
+          "package_name": "com.irshad.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940072430739-sl2afjs23095739hs21n0i1a20qglnfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1tVEw5eO1s26-z0JNbXr_0mAicQDSGJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940072430739-sl2afjs23095739hs21n0i1a20qglnfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
